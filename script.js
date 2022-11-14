@@ -31,7 +31,7 @@ const music_list = [
         img : 'images/aImage2.jpeg',
         name : 'jason derulo',
         artist : 'anu-dheera',
-        music : 'music/song1.mp3'
+        music : 'music/song2.mp3'
     },
     {
         img : 'images/aImage3.jpeg',
