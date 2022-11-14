@@ -22,21 +22,21 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/vibi.jpeg',
-        name : 'idukki gold',
-        artist : 'vipin home',
-        music : 'music/idukki.mpeg'
+        img : 'images/aImage1.jpeg',
+        name : 'Real friends',
+        artist : 'Anu-dhee-rain',
+        music : 'music/song1.mpeg'
     },
     {
-        img : 'images/jithinmarr.jpeg',
-        name : 'Happy days',
-        artist : 'jithins wedding',
-        music : 'music/ayyayyo.mp3'
+        img : 'images/aImage2.jpeg',
+        name : 'jason derulo',
+        artist : 'anu-dheera',
+        music : 'music/song1.mp3'
     },
     {
-        img : 'images/umesh.jpeg',
-        name : 'vidachollan',
-        artist : 'trip',
+        img : 'images/aImage3.jpeg',
+        name : 'dhee-an',
+        artist : 'happy days',
         music : 'music/vida.mp3'
     },
    
